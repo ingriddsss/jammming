@@ -1,3 +1,6 @@
+# Jammming
+This is a Codecademy project called Jammming that focuses on utilizing the Spotify API to curate a playlist. The user is able to search for any song, artist, and album they desire and add that to the playlist. This playlist can then be saved directly to the users Spotify account.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
