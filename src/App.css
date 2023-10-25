@@ -134,3 +134,13 @@ hr {
     gap: 2.5rem;
   }
 }
+
+@media (max-width: 580px) {
+  .main-container {
+    flex-direction: column;
+  }
+
+  .track-container {
+    width: 70%;
+  }
+}
